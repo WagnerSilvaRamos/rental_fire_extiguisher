@@ -1,0 +1,26 @@
+[
+  {
+    "name": "my-items",
+    "path": "/my-items",
+    "component": "C:\\\\wamp64\\\\www\\\\Nuxt\\\\rental_fire\\\\pages\\\\my-items.vue",
+    "chunkName": "pages/my-items"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nuxt\\\\rental_fire\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\Nuxt\\\\rental_fire\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp64\\\\www\\\\Nuxt\\\\rental_fire\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
